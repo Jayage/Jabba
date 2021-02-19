@@ -7,7 +7,7 @@
 Jabba The Huck Mixed Ultimate Frisbee Club.
 Ireland's longest running and most successful ultimate club is back in 2021 for a full season of mixed ultimate.
 
-A link to the live website can be found [here](#)
+A link to the live website can be found [here](https://jayage.github.io/Jabba/)
 
 ## UX
 * My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist design.
@@ -34,7 +34,7 @@ The Jabba The Huck website is for users that want to learn more about the Jabba 
 ### This project has been deployed on GitHub Pages with the following process:
 
 * All code was written on Gitpod, an online IDE.
-* The code was then pushed to GitHub where it is stored in my Repository.
+* The code was then pushed to GitHub where it is stored in my [Repository](https://github.com/Jayage/Jabba).
 * Under the settings section of the GitHub repository, scrolled down to GitHub Pages section.
 * Under 'Source' drop-down, the 'Master branch' was selected.
 * Once selected, this publishes the project to GitHub Pages and displays the site url.
