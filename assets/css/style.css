@@ -2,13 +2,12 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-
 /* Containers */
 
 .container-wrapper {}
 
 .container-wrapper--red {
-    background-color: #f05f40;
+    background-color: #66C7F4;
     color: white;
 }
 
@@ -26,8 +25,8 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-
     position: relative;
+    
 }
 
 .opaque-overlay {
@@ -68,9 +67,28 @@ body{
     color: #d0d0d0;
 }
 
+/* Buttons */
 
+.btn--cta {
+    font-weight: bold;
+    border-radius: 15px;
+    width: 160px;
+}
 
+.btn--clr {
+    color: white;
+    background-color: #66C7F4;
+    border-color: #66C7F4;
+}
 
+.btn--clr:hover,
+.btn--clr:active,
+.btn--clr:focus,
+.btn--clr:active:focus {
+    background-color: #272932;
+    border-color: #272932;
+    color: white;
+}
 
 nav{
     margin: 0;
