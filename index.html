@@ -8,21 +8,33 @@
     <title>Jabba The Huck</title>
 </head>
 <body>
-    <header>
-        <nav>
-            <ul>
-                <li><a href="index.html">Jabba The Huck</a></li>
-                <li><a href="#comittee">Comittee</a></li>
-                <li><a href="#training">Training Information</a></li>
-                <li><a href="#history">History</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
+    <div class="container-fluid navalert-container">
+        <div class="container-fluid alert-container">
+            <div class="row d-none d-sm-block">
+                <div class="col-12">
+                </div>
+            </div>
+        </div>
+        <nav class="navbar navbar-dark navbar-expand-sm">
+            <a href="/" class="navbar-brand">Jabba The Huck</a>
+
+            <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span></button>
+
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav mr-auto">
+                    <li class="active nav-item mr-2"><a class="nav-link" href="/">Home</a></li>
+                    <li class="nav-item mr-2"><a class="nav-link" href="/comittee">Comittee</a></li>
+                    <li class="nav-item mr-2"><a class="nav-link" href="/training">Training Information</a></li>
+                    <li class="nav-item mr-2"><a class="nav-link" href="/history">History</a></li>
+                    <li class="nav-item mr-2"><a class="nav-link" href="/contact">Contact</a></li>
+                </ul>
+            </div>
         </nav>
-    </header>
+    </div>
     <div id="container">
         <!--Image Section-->
         <div class="container-fluid callout-container">
-            <!-- Callout -->
             <div class="opaque-overlay">&nbsp;</div>
             <div class="row">
                 <div class="col-12">
@@ -35,7 +47,6 @@
                     </section>
                 </div>
             </div>
-            <!--End callout -->
         </div>
     </div>
 
