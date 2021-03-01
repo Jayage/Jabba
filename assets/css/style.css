@@ -1,3 +1,8 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
 /* Containers */
 
 .container-wrapper {}
@@ -53,7 +58,7 @@
 }
 
 .jumbotron .lead {
-    color: #a7a7a7;
+    color: white;
     margin: 25px 0;
 }
 
