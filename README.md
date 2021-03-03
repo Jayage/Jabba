@@ -45,4 +45,6 @@ The Jabba The Huck website is for users that want to learn more about the Jabba 
 * The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine.
 
 
-### 
+## Credits
+
+* [W3School](www.w3schools.com) - For general HTML 5 & CSS 3 help.
