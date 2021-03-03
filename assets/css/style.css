@@ -6,7 +6,7 @@ body{
 
 .container-wrapper {}
 
-.container-wrapper--red {
+.container-wrapper--blue {
     background-color: #66C7F4;
     color: white;
 }
