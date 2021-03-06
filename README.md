@@ -2,8 +2,18 @@
 
 ![Jabba The Huck](assets/images/banner.png)
 
-## Code Institute Milestone Project 1 : User-Centric Front End Development
 
+## Table Of Contents
+* [Project Overview](https://github.com/Jayage/Jabba#project-overview)
+* [UX design](https://github.com/Jayage/Jabba#ux)
+* Technologies Used
+* Testing
+* Deployment
+* Credits
+
+
+
+## Project Overview
 Jabba The Huck Mixed Ultimate Frisbee Club.
 Ireland's longest running and most successful ultimate club is back in 2021 for a full season of mixed ultimate.
 
@@ -16,6 +26,7 @@ A link to the live website can be found [here](https://jayage.github.io/Jabba/)
 * HTML
 * CSS
 * Bootstrap
+* JavaScript
 
 
 ## Strategy
