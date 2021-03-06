@@ -1,15 +1,22 @@
-# Website for Jabba The Huck
+# Jabba The Huck
 
 ![Jabba The Huck](assets/images/banner.png)
 
 
 ## Table Of Contents
-* [Project Overview](https://github.com/Jayage/Jabba#project-overview)
-* [UX design](https://github.com/Jayage/Jabba#ux)
-* Technologies Used
-* Testing
-* Deployment
-* Credits
+- [Project Overview](#project-overview)
+- [UX](#ux)
+  - [User Stories](#user-stories)
+  - [Strategy](#1-strategy)
+  - [Scope](#2-scope)
+  - [Structure](#3-structure)
+  - [Skeleton](#4-skeleton)
+  - [Surface](#5-surface)
+- [Features](#features)
+  - [Existing Features](#existing-features)
+  - [Features to consider implementing in the future](#features-to-consider-implementing-in-the-future)
+- [Technologies Used](#technologies-used)
+  - [Languages](#1-languages)
 
 
 
@@ -20,7 +27,18 @@ Ireland's longest running and most successful ultimate club is back in 2021 for 
 A link to the live website can be found [here](https://jayage.github.io/Jabba/)
 
 ## UX
-* My goal in the design was to make it as easy as possible to access information on the site while striving for a minimalist design.
+### User Stories
+
+- As a user I want to, find out more about the club.
+- As a user I want to, be able to view the website on various devices (mobile, tablet, desktop)
+- As a user I want to, find out who to contact with any queries regarding the club.
+- As a user I want to, find out more about the leadership of the club.
+
+### 1. Strategy
+### 2. Scope
+### 3. Structure
+### 4. Skeleton
+### 5. Surface
 
 ## Technologies Used
 * HTML
@@ -33,13 +51,10 @@ A link to the live website can be found [here](https://jayage.github.io/Jabba/)
 
 The Jabba The Huck website is for users that want to learn more about the Jabba the Huck Ultimate Frisbee Team. 
 
-#### As a user I want to:
-* know more about what ultimate frisbee is.
-* find out more about the clubs history.
-* be able to view the website on various devices (mobile, tablet, desktop)
-* find out who to contact with any queries regarding the club.
-* find out more about the leadership of the club.
-* be able to instinctively navigate the website to efficiently find any information required.
+## Code Validation
+
+- [W3C HTML](https://validator.w3.org/) - HTML Markup Validation.
+- [W3C CSS](https://jigsaw.w3.org/css-validator/) - CSS Validation.
 
 ## Deployment
 ### This project has been deployed on GitHub Pages with the following process:
