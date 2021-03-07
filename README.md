@@ -17,7 +17,13 @@
   - [Features to consider implementing in the future](#features-to-consider-implementing-in-the-future)
 - [Technologies Used](#technologies-used)
   - [Languages](#1-languages)
-
+  - [Workspace, Version Control, and Repository Storage](#2-workspace-version-control-and-repository-storage)
+- [Resources](#resources)
+- [Testing](#testing)
+- [Deployment](#deployment)
+- [Credits](#credits)
+  - [Code](#code)
+- [Acknowledgments](#acknowledgments)
 
 
 ## Project Overview
@@ -45,41 +51,70 @@ A link to the live website can be found [here](https://jayage.github.io/Jabba/)
 - Easy to 
 
 ### 3. Structure
+
+As the website was built on being a single page with multiple sections. The nav bar when any option is selected will scroll down to the relevant part of the website. 
+While the user doesn't have to scroll back to the top each time they want to see the top of the page thanks to a back to the top button that was implemented.
+
 ### 4. Skeleton
 
--[Wireframe](assets/documents/indexwireframe.png)
+- [Wireframe](assets/documents/indexwireframe.png)
 
 ### 5. Surface
+The overall UX is clean and similar in all pages to keep consistency.
+
+### Colors:
+The base color **vivid Sky Blue(#66C7F4)** was chosen from [Coolors](https://coolors.co/). Some different colour tones were 
+also chosen to make the website more elegant.
+![Palette of colors](assets/images/colourscheme.png)
+
+
 
 ## Technologies Used
-* HTML
-* CSS
-* Bootstrap
-* JavaScript
 
+### 1. Languages
 
-## Strategy
+- [HTML5](https://en.wikipedia.org/wiki/HTML5)
+- [CSS](https://en.wikipedia.org/wiki/CSS)
+- [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
 
-The Jabba The Huck website is for users that want to learn more about the Jabba the Huck Ultimate Frisbee Team. 
+### 2. Workspace, version control, and repository storage
+
+- [Gitpod](https://www.gitpod.io/) - IDE (Integrated Development Environment) used to write the code.
+- [GitHub](https://github.com/) - Repository hosting service to host the deployed website and track previous versions of code.
+
+## Resources
+
+- [W3.CSS](https://www.w3schools.com/w3css/defaulT.asp) - General resource.
+- [Youtube](https://www.youtube.com/) - General resource.
+- [Coolors](https://coolors.co/) - Find matching color palette for site.
+- [Balsamiq](https://balsamiq.com/wireframes/) - Wireframing design tool.
+- [Google Mobile-Friendly](https://search.google.com/test/mobile-friendly) - Test Mobile-friendly check on site.
+- Code Institute SLACK Community - General Resource
 
 ## Code Validation
 
 - [W3C HTML](https://validator.w3.org/) - HTML Markup Validation.
 - [W3C CSS](https://jigsaw.w3.org/css-validator/) - CSS Validation.
 
+## Testing
+Testing was done through peer support. By letting testers through the slack community, some bugs were found.
+
+![Bugs Found](assets/images/testing.jpg)
+
+
 ## Deployment
 ### This project has been deployed on GitHub Pages with the following process:
 
-* All code was written on Gitpod, an online IDE.
-* The code was then pushed to GitHub where it is stored in my [Repository](https://github.com/Jayage/Jabba).
-* Under the settings section of the GitHub repository, scrolled down to GitHub Pages section.
-* Under 'Source' drop-down, the 'Master branch' was selected.
-* Once selected, this publishes the project to GitHub Pages and displays the site url.
-* There is no difference between the deployed version and the development version.
-* The code can be run locally through clone or download.
-* You can do this by opening the repository, clicking on the green 'Code' button and selecting either 'clone or download'.
-* The Clone option provides a url, which you can use on your desktop IDE.
-* The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine.
+- All code was written on Gitpod, an online IDE.
+- The code was then pushed to GitHub where it is stored in my [Repository](https://github.com/Jayage/Jabba).
+- Under the settings section of the GitHub repository, scrolled down to GitHub Pages section.
+- Under 'Source' drop-down, the 'Master branch' was selected.
+- Once selected, this publishes the project to GitHub Pages and displays the site url.
+- There is no difference between the deployed version and the development version.
+- The code can be run locally through clone or download.
+- You can do this by opening the repository, clicking on the green 'Code' button and selecting either 'clone or download'.
+- The Clone option provides a url, which you can use on your desktop IDE.
+- The Download ZIP option provides a link to download a ZIP file which can be unzipped on your local machine.
 
 
 ## Credits
