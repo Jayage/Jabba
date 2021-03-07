@@ -14,7 +14,6 @@
   - [Surface](#5-surface)
 - [Features](#features)
   - [Existing Features](#existing-features)
-  - [Features to consider implementing in the future](#features-to-consider-implementing-in-the-future)
 - [Technologies Used](#technologies-used)
   - [Languages](#1-languages)
   - [Workspace, Version Control, and Repository Storage](#2-workspace-version-control-and-repository-storage)
@@ -57,7 +56,9 @@ While the user doesn't have to scroll back to the top each time they want to see
 
 ### 4. Skeleton
 
-- [Wireframe](assets/documents/indexwireframe.png)
+- Desktop wireframe can be found [here](assets/documents/desktopwireframe.png) 
+- Tablet wireframe can be found [here](assets/documents/tabletwireframe.png) 
+- Mobile wireframe can be found [here](assets/documents/mobilewireframe.png) 
 
 ### 5. Surface
 The overall UX is clean and similar in all pages to keep consistency.
@@ -66,6 +67,14 @@ The overall UX is clean and similar in all pages to keep consistency.
 The base color **vivid Sky Blue(#66C7F4)** was chosen from [Coolors](https://coolors.co/). Some different colour tones were 
 also chosen to make the website more elegant.
 ![Palette of colors](assets/images/colourscheme.png)
+
+## Features
+
+### Existing Features
+
+- Designed with HTML5, CSS3, JavaScript, Python3, Flask, MongoDB and Materalize.
+- Responsive navigation bar, YouTube embed  and contact form.
+- Footer with social media links.
 
 
 
