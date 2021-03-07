@@ -35,9 +35,20 @@ A link to the live website can be found [here](https://jayage.github.io/Jabba/)
 - As a user I want to, find out more about the leadership of the club.
 
 ### 1. Strategy
+
+- Create a website that showcases the Ultimate Frisbee club team, Jabba the Huck
+- Create an enjoyable and easy to use website.
+
 ### 2. Scope
+
+- Fits in with my current skill-set of HTML & CSS
+- Easy to 
+
 ### 3. Structure
 ### 4. Skeleton
+
+-[Wireframe](assets/documents/indexwireframe.png)
+
 ### 5. Surface
 
 ## Technologies Used
@@ -72,6 +83,11 @@ The Jabba The Huck website is for users that want to learn more about the Jabba 
 
 
 ## Credits
+### Code
 
-* [W3School](www.w3schools.com) - For general HTML 5 & CSS 3 help.
-* 
+- Back to the top button can be found [here](https://www.w3schools.com/howto/howto_js_scroll_to_top.asp)
+
+## Acknowledgments
+- Thanks for my mentor, Excellence Ilesanm for guidence and excellent advices.
+- Thanks to all Code Institute staff.
+- Thanks to CI Slack Community for all the assistance and support.
